@@ -4,13 +4,8 @@
 
 ## Listen to the Song
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/oO8xKL0Z18A" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oO8xKL0Z18A" target="_blank">
- <img src="http://img.youtube.com/vi/oO8xKL0Z18A/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+[![Watch the video](https://img.youtube.com/vi/oO8xKL0Z18A/default.jpg)](https://youtu.be/oO8xKL0Z18A)
 
 ## Lyrics Breakdown
 
