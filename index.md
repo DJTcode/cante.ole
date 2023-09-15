@@ -7,7 +7,6 @@ Here are some songs categorized by difficulty:
 - [Quizás Quizás Quizás](quizas)
 - [Besame Mucho](besame)
 - [Valencia](valencia)
-- [El cielito Lindo](elcielitolindo)
 - [Yo Soy María](maria)
 
 ## Intermediate Songs
