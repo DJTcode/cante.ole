@@ -4,8 +4,8 @@
 
 ## Listen to the Song
 
-<a href="http://www.youtube.com/watch?v=oO8xKL0Z18A" target="_blank">
-    ![María de Buenos Aires Thumbnail](http://img.youtube.com/vi/oO8xKL0Z18A/0.jpg)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oO8xKL0Z18A" target="_blank">
+ <img src="http://img.youtube.com/vi/oO8xKL0Z18A/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 ## Lyrics Breakdown
