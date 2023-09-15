@@ -8,6 +8,10 @@
  <img src="http://img.youtube.com/vi/pikr6fQKiK8/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CfG-DjDvcWc" target="_blank">
+ <img src="http://img.youtube.com/vi/CfG-DjDvcWc/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 ## Lyrics Breakdown
 
 **Na' te debo, na' te pi'o  
