@@ -1,6 +1,6 @@
 # Pick a song
 
-Here are some songs categorized by difficulty:
+Here are some songs categorized by difficulty in translation:
 
 ## Beginner Songs
 
