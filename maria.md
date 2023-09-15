@@ -4,8 +4,9 @@
 
 ## Listen to the Song
 
-
-[![Watch the video](https://img.youtube.com/vi/oO8xKL0Z18A/default.jpg)](https://youtu.be/oO8xKL0Z18A)
+<a href="http://www.youtube.com/watch?v=oO8xKL0Z18A" target="_blank">
+    ![María de Buenos Aires Thumbnail](http://img.youtube.com/vi/oO8xKL0Z18A/0.jpg)
+</a>
 
 ## Lyrics Breakdown
 
