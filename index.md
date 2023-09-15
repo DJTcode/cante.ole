@@ -13,7 +13,7 @@ Here are some songs categorized by difficulty:
 ## Intermediate Songs
 - [Los Nardos](nardos)
 - [Perfidia](perfidia)
-- [Lágrimas Negras[lagrimas)
+- [Lágrimas Negras](lagrimas)
 - [Granada](granada)
 - [Júrame](jurame)
 
