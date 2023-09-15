@@ -1,4 +1,4 @@
-# Welcome to My Spanish Songs Collection
+# Pick a song
 
 Here are some songs categorized by difficulty:
 
