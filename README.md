@@ -1,2 +1,2 @@
 # djt.es
-Learn about lyrics of great Spanish-speaking standards
+Learn lyrics to Spanish-speaking standards
