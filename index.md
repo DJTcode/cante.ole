@@ -18,6 +18,7 @@ Here are some songs categorized by difficulty:
 
 ## Advanced Songs
 
+- [La Zarazamora](zarzamora)
 - [Mi Jaca](mijaca)
 - [El Relicario](elrelicario)
 - [Campanera](campanera)
